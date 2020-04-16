@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587057061556.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "169034892",
+    "id" : "1A5F1C7E",
+    "lastKnownWriteTime" : 1587057090,
+    "last_content_update" : 1587057090282,
+    "path" : "C:/Users/tasni/Desktop/vr/plus.R",
+    "project_path" : "plus.R",
+    "properties" : {
+        "cursorPosition" : "0,5",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
